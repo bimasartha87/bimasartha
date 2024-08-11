@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bima Sartha Yudha</h1>
 <h3 align="center">A Geospatial Data Scientist from the University of Indonesia (UI) </h3>
-<p align="center">With a deep love for uncovering insights hidden within maps and data, I specialize in turning complex geospatial information into actionable strategies. Whether it’s optimizing store locations or mapping the depths of our oceans, my expertise in geospatial analysis, GIS technology, and data science drives impactful solutions. Let's navigate the world of data together!</p>
+<p align="center">With a deep love for uncovering insights hidden within maps and data, I specialize in turning complex geospatial information into actionable strategies. Whether it’s optimizing retail locations or mapping the depths of our oceans, my expertise in geographic information system (GIS), remote sensing, and data science drives impactful solutions. Let's navigate the world of data together!</p>
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, Cloud Computing and Database Management System**
 
